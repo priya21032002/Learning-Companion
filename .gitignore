@@ -1,0 +1,5 @@
+logs/
+venv/
+.env
+AI_POWERED_ACADEMIC_MENTOR.egg-info/
+results/
