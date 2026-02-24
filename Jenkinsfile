@@ -4,7 +4,7 @@ pipeline {
     //     DOCKER_HUB_REPO = "dataguru97/studybuddy"
     //     DOCKER_HUB_CREDENTIALS_ID = "dockerhub-token"
     //     IMAGE_TAG = "v${BUILD_NUMBER}"
-    }
+    // }
     stages {
         stage('Checkout Github') {
             steps {
