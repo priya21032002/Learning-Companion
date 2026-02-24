@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: learning-companion-app
-        image: dataguru97/studybuddy:v17
+        image: pri2103/learningcompanion:latest
         ports:
         - containerPort: 8501
         env:
