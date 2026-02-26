@@ -50,7 +50,7 @@ def load_css():
 
 def main():
     st.set_page_config(
-        page_title="Learning Companion AI",
+        page_title="Learning Companion AI New",
         page_icon="🎓",
         layout="wide"
     )
