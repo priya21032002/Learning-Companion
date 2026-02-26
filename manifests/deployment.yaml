@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: learning-companion-app
-        image: pri2103/learningcompanion:v34
+        image: pri2103/learningcompanion:v35
         ports:
         - containerPort: 8501
         env:
