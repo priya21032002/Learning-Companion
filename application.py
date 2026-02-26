@@ -50,7 +50,7 @@ def load_css():
 
 def main():
     st.set_page_config(
-        page_title="Learning Companion AI New",
+        page_title="Learning Companion AI",
         page_icon="🎓",
         layout="wide"
     )
@@ -74,7 +74,7 @@ def main():
         st.session_state.user_answers = {}
 
     # -------------------- Header --------------------
-    st.markdown('<div class="main-title">🎓 Learning Companion</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-title">🎓 Learning Companion New</div>', unsafe_allow_html=True)
     st.markdown(
         '<div class="subtitle">AI-powered quizzes that adapt to your learning</div>',
         unsafe_allow_html=True
